@@ -1,4 +1,4 @@
-#Greometry Dash Micro click Challanges list
+# Geometry Dash Micro+Click Challanges list
 
 this is a test and i dont know a thing about making a website. The rest is default text :)
 
